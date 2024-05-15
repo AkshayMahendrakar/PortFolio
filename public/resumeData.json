@@ -1,12 +1,12 @@
 {
   "main": {
     "name": "Akshay S M",
-    "occupation": "Full Stack Developer",
+    "occupation": "UI / UX Technical Lead",
     "description": "I eat, sleep and breathe JavaScript",
     "image": "me1.jpg",
-    "bio": "I have 5 years of professional experience in Web Development as a Full-stack Developer and have experienced working with different teams on various technologies like Angular 4 to Angular 12, Typescript/Javascript, NodeJs,ReactJs, Scss, CSS, HTML5. I have worked among several sizes of Teams with agile methodologies, and have been a frequent user of tools like Github, Jira, Azure, Microsoft TFS, Visual Studio and many",
+    "bio": "I have 9 years of professional experience in Web Development as a Full-stack Developer and have experienced working with different teams on various technologies like Angular 4 to Angular 12, Typescript/Javascript, NodeJs,ReactJs, Scss, CSS, HTML5. I have worked among several sizes of Teams with agile methodologies, and have been a frequent user of tools like Github, Jira, Azure, Microsoft TFS, Visual Studio and many",
     "contactmessage": "Get in touch with me if you want me to help you create a dashing web application or mobile application",
-    "email": "Akshay44.sm@gmail.com",
+    "email": "Akshays.m@yahoo.com",
     "phone": "",
     "address": {
       "street": "Bangalore",
@@ -14,7 +14,7 @@
       "state": "Karnataka",
       "zip": "560077"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "",
     "resumedownload": "https://drive.google.com/file/d/1yH7uY6uG1gm_JpVBW7mB9WBCkZncWTqC/view?usp=sharing",
     "social": [
       {
@@ -120,7 +120,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "Angular",
